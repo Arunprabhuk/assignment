@@ -17,7 +17,7 @@ const SideNav = () => {
           width: "100%",
           display: "flex",
           justifyContent: "center",
-          height: "70px",
+          height: "100px",
           background: "#ffffff",
           marginBlock: 15,
           paddingBlock: 15,
